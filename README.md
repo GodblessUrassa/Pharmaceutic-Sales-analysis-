@@ -3,3 +3,5 @@ Foresight Pharmaceuticals is one of the leading Pharmaceutical Manufacturing com
 
 ## Project Task
 To execute sales analysis and generate insights at retail level
+
+## Data transformation
