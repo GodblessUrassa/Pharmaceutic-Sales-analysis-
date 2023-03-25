@@ -22,4 +22,20 @@ Created measures
 * Calendar
 
 ## Dashboard
-![](pharma dashboard.jpg)
+![](pharma_dashboard.jpg)
+
+You can interact with a live dashboard [here](<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTJjMzZkMzktNjJjNi00OWI5LWFhNDEtNzU0MmI2ZGQyOThmIiwidCI6Ijc5M2EyYzE5LTY4N2ItNGJmOS05ZTBlLWJkOTU3YmE3ZDgxMyJ9" frameborder="0" allowFullScreen="true"></iframe>)
+
+## Insights
+* Sum of sales dropped from $359,835,083 to $302,285,008 during its steepest decline between october 2018 and march 2019. The drop was contributed by koss distributor which its sum of sales changed by $40M from $59M.
+* Change of product preference. The sum of sales of product class analgesics dropped while those of antiseptics and mood stabilizers rised
+* The most recent anomaly was in august 2019, when sum of sales had a high value of $480,255,331.
+* Year to year sales growth rate dropped from 29.81% to -9.26% during its steepest decline between 2018 and 2020
+* Retail pharmacies and government hospitals have contributed more sales revenue across the years
+* The delta sales team have more consistency in generating sales revenue
+* Gerlach LLC and Koss distributors have more sum of sales compared to others.
+* Analgesics, antiseptics and mood stabilizers product class have good sales performance across the years
+
+## Recommendations
+* The distributors and manufacturers should conduct market research to understand the reasons for the shift in consumer preferences. 
+* The distributors should adapt the prefered product to meet the new demands of the market or consider introducing new product that align with the changing consumer preference
