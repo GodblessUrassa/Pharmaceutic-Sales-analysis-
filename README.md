@@ -24,7 +24,7 @@ Created measures
 ## Dashboard
 ![](pharma_dashboard.jpg)
 
-You can interact with a live dashboard [here](<iframe title="phama" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTJjMzZkMzktNjJjNi00OWI5LWFhNDEtNzU0MmI2ZGQyOThmIiwidCI6Ijc5M2EyYzE5LTY4N2ItNGJmOS05ZTBlLWJkOTU3YmE3ZDgxMyJ9" frameborder="0" allowFullScreen="true"></iframe>)
+You can interact with a live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYTJjMzZkMzktNjJjNi00OWI5LWFhNDEtNzU0MmI2ZGQyOThmIiwidCI6Ijc5M2EyYzE5LTY4N2ItNGJmOS05ZTBlLWJkOTU3YmE3ZDgxMyJ9)
 
 ## Insights
 * Sum of sales dropped from $359,835,083 to $302,285,008 during its steepest decline between october 2018 and march 2019. The drop was contributed by koss distributor which its sum of sales changed by $40M from $59M.
