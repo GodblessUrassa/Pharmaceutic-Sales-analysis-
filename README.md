@@ -14,12 +14,10 @@ Used custom column to create a date column but also changed data types of quanti
 It was a simple modelling , created a calender table and connected it with a data table by date column
 ![](Modelling.jpg)
 
-## Data analysis expression (DAX)
-Created measures
-* YOY growth % - year to year sales growth rate
-* MOM sales growth % - month to month sales growth rate
-* Total sales - sum of sales
-* Calendar
+## KPIs and Metrics
+* YOY growth % - year-to-year sales growth rate
+* MOM sales growth % - month-to-month sales growth rate
+* Total sales - the sum of sales
 
 ## Report Visuals
 ![](pharma_dashboard.jpg)
