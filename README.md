@@ -20,7 +20,7 @@ It was a simple modelling , created a calender table and connected it with a dat
 * Total sales - the sum of sales
 
 ## Report Visuals
-![](pharma_dashboard.jpg)
+![](drugs_dashboard.jpg)
 
 You can interact with a live report [here](https://app.powerbi.com/view?r=eyJrIjoiYTJjMzZkMzktNjJjNi00OWI5LWFhNDEtNzU0MmI2ZGQyOThmIiwidCI6Ijc5M2EyYzE5LTY4N2ItNGJmOS05ZTBlLWJkOTU3YmE3ZDgxMyJ9)
 
